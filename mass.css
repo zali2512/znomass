@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.table{
+    padding: 5px;
+}
+body{
+ align-items: center;
+ display: flex;
+ flex-flow: column-reverse;
+}
+.btn {
+    font-size: 18px;
+    background-color: cornflowerblue;
+}
